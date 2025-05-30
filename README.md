@@ -1,8 +1,8 @@
-## How to use this repo
+# How to use this repo
 
 1. Fork this repo  
 
-1. In your forked Walkthrough01 repo click on the green Code button. 
+1. In your forked Walkthrough01 repo click on the green Code button.  
 
 1. Then, from the Codespaces tab, click Create codespace on main.
 
